@@ -1,16 +1,13 @@
-### Hi there 👋
+<h2 align="center">👋 Hello! I'm Abdujalil.</h2>
 
-<!--
-**Abdujalil7/Abdujalil7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m Student on ** Najot Ta'lim**
+- 🌱 I’m currently learning **Flutter**
+- 💬 Ask me about **Flutter**
+- 📫 How to reach me: egammurodovabdujalil@gmail.com and @abdusamatovich7 on Telegram
+- ⚡ Fun fact: Big Fan of the :zap: emoji
+
+-------
+
+
