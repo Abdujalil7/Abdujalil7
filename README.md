@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m Student on ** Najot Ta'lim**
+- 🔭 I’m Student in ** Najot Ta'lim**
 - 🌱 I’m currently learning **Flutter**
 - 💬 Ask me about **Flutter**
 - 📫 How to reach me: egammurodovabdujalil@gmail.com and @abdusamatovich7 on Telegram
