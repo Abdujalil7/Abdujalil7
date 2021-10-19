@@ -26,13 +26,15 @@
 
 
 ### 📊 Github Stats
-<a href='https://github.com/Abdujalil7/github-stats-transparent'>
-  
-![Stats Overview](https://raw.githubusercontent.com/Abdujalil7/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/Abdujalil7/github-stats-transparent/output/generated/languages.svg)
+<p align='center'>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AbdujalilEgammurodov&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Abdujalil Egammurodov's Github Stats">
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdujalilEgammurodov&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite&langs_count=10&exclude_repo=kasweb">
+    </p>
 
-</a>
+<p align='center'>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=BahromjonPolat" alt="visitor badge"/>
+</p>
 
 <br>
 
