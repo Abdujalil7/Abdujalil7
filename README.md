@@ -1,4 +1,4 @@
-## Hey 👋, I'm Abdujalil Egammurodov!
+## Hey 👋, I'm Abdujalil!
 <br/>
 <br/>
 
@@ -6,12 +6,15 @@
   
 ### 🧐  About Me:
 
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Abdujalil7?tab=repositories)
 
+- 🔋 I’m currently learning Flutter .
+- 📫 How to reach me: egammurodovabdujalil@gmail.com
+- ⚡ Fun fact: I use glasses 👓
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Abdujalil7?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help
 
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing)
-- 📚 &nbsp; When I am free, I read detective books. 
+
+- 📚 &nbsp; When I am free, I read detective books 🕵️‍♂️. 
 <br>
 
 ### 🔨 Languages and Tools:
