@@ -9,12 +9,10 @@
 
 - 🔋 I’m currently learning Flutter .
 - 📫 How to reach me: egammurodovabdujalil@gmail.com
-- ⚡ Fun fact: I use glasses 👓
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Abdujalil7?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help
-
-
 - 📚 &nbsp; When I am free, I read detective books 🕵️‍♂️. 
+- ⚡ Fun fact: I use glasses 👓
 <br>
 
 ### 🔨 Languages and Tools:
