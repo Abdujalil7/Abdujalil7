@@ -36,5 +36,13 @@
   <img src="https://visitor-badge.glitch.me/badge?page_id=Abdujalil7" alt="visitor badge"/>
 </p>
 
+<p align="center">
+&nbsp; <a href="https://twitter.com/discover_uz" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
+&nbsp; <a href="https://instagram.com/diyorbekdev" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" />
+&nbsp; <a href="mailto:discover.diyorbek@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+&nbsp; <a href="https://t.me/diyorbekdev" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/64/telegram-app.png" width="40"/></a>
+  
+</p>
+
 <br>
 
